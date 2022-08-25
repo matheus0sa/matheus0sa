@@ -1,4 +1,3 @@
 - Matheus de Sá
 - Cursando licenciatura em matemática
-- Forte interesse em ciência de dados
-- Apredendo Python para análises de dados
+- Analista de Dados
